@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Babycorn Manchurian",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://healthfullyrootedhome.com/wp-content/uploads/2022/04/chicken-manchurian-in-cast-iron-skillet.jpg",
+        "DES":"Baby Corn Manchurian is a popular Indo-Chinese starter/appetizer recipe that is quite common in any restaurant across the country.",
+        "TYPE":"START",
+        "PRICE":250
+    },
+    {
+        "id":2,
+        "name":"Gobi Manchurian",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://images.unsplash.com/photo-1616787928056-ae5ab4b649d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGN1cnJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "DES":"To make the perfect crispy gobi manchurian make sure the oil is hot. If the oil is not hot enough then the florets won't be crispy and will absorb more oil. To test the oil add one cauliflower floret covered in batter in the pan and fry it on both sides until golden.",
+        "TYPE":"START",
+        "PRICE":350
+    },  {
+        "id":3,
+        "name":"Chicken Manchurian",
+        "cat":"NON",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Non_veg_symbol.svg",
+        "UR1":"https://pupswithchopsticks.com/wp-content/uploads/chicken-manchurian-tn.jpg",
+        "DES":"Chicken Manchurian consists of crispy-coated boneless chicken pieces served in a spicy, tangy brown or red sauce. Despite the name, Chicken Manchurian is an Indo-Chinese recipe popular in Indian & Pakistani restaurants and bears little resemblance to Manchu or Chinese cuisine.",
+        "TYPE":"START",
+        "PRICE":400
+
+    }
+    ,  {
+        "id":4,
+        "name":"Chilli Chicken Manchurian",
+        "cat":"NON",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Non_veg_symbol.svg",
+        "UR1":"https://www.islandsmile.org/wp-content/uploads/2021/10/IMG_0306-2-scaled.jpg",
+        "DES":"You can chilly chicken at home in a simple, tasty and healthy manner, says Dr Tejender Kaur Sarna, Nutritionist and Lifestyle Coach, Mumbai. Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option",
+        "TYPE":"START",
+        "PRICE":500
+
+    }
+    ,  {
+        "id":5,
+        "name":"Chicken 65",
+        "cat":"NON",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Non_veg_symbol.svg",
+        "UR1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYi-azFmRmlrfy3e6ku0Ws7hv99SY2epbLg&usqp=CAU",
+        "DES":"You can chilly chicken at home in a simple, tasty and healthy manner, says Dr Tejender Kaur Sarna, Nutritionist and Lifestyle Coach, Mumbai. Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option",
+        "TYPE":"START",
+        "PRICE":449
+
+    },
+    {
+        "id":5,
+        "name":"Mushroom Manchurian",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://hips.hearstapps.com/vidthumb/images/gobi-manchurian-jpg-1661439833.jpg?crop=0.673xw:0.897xh;0.159xw,0.0235xh&resize=980:*",
+        "DES":"You can chilly chicken at home in a simple, tasty and healthy manner, says Dr Tejender Kaur Sarna, Nutritionist and Lifestyle Coach, Mumbai. Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option",
+        "TYPE":"START",
+        "PRICE":350
+
+    }
+  
+]

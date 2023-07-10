@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "name":"Chicken Biriyani",
+        "cat":"NON",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Non_veg_symbol.svg",
+        "UR1":"https://recipesofhome.com/wp-content/uploads/2020/06/chicken-biryani-recipe-720x720.jpg",
+        "DES":"The Kashmiri Biryani is a perfect mix of tender chicken and rice with dried fruits and Kashmiri spices, and they stand out the ingredient of asafoetida.",
+        "TYPE":"BIRYANI",
+        "PRICE":450
+    },
+    {
+        "id":2,
+        "name":"Veg Biriyani",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUO0nwCVvnInQ7NIuWa2di8VtZUZ5K_9M8sg&usqp=CAU",
+        "DES":"A vegetarian diet has significant health advantages. By eating vegetable biryani, you can drive up your intake of vitamins and minerals. It takes a little time to cook it. Vegetables in biryani such as asparagus, carrots, and cauliflower are packed with nutrients and micronutrients.",
+        "TYPE":"BIRYANI",
+        "PRICE":300
+    },
+    {
+        "id":3,
+        "name":"Lollipop Biriyani",
+        "cat":"NON",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Non_veg_symbol.svg",
+        "UR1":"https://t2p.fra1.digitaloceanspaces.com/1655367942019sg07x.jpeg",
+        "DES":"Lollipop Biriyani is delicious food",
+        "TYPE":"BIRYANI",
+        "PRICE":350
+    },
+    {
+        "id":4,
+        "name":"Paneer Biriyani",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgKxDqWI91yDvXHGE6tltpwwZmZog3ooBxgoJrm2gxF8GiSTFVtyTzfHW449XsTFvRww&usqp=CAU",
+        "DES":"A traditional Paneer Biryani recipe is a slow cooked layered casserole of paneer cubes in a curd (yogurt) based gravy, fried onions and par-cooked rice flavored with spices, saffron or rose water. Any traditionally made biryani will have separate layers of the gravy and rice, utilizing the dum method of cooking.",
+        "TYPE":"BIRYANI",
+        "PRICE":400
+    }
+    ,
+    {
+        "id":5,
+        "name":"Mushroom Biriyani",
+        "cat":"VEG",
+        "UR":"https://upload.wikimedia.org/wikipedia/commons/7/78/Indian-vegetarian-mark.svg",
+        "UR1":"https://1.bp.blogspot.com/-Ar6a3lNRs_c/V9Mxef9kY9I/AAAAAAAAAS8/MKT0XD9ObN482-D7u_z3rHKsxXm2fhXkgCLcB/s1600/Mushroom%2BBiryani%2Brecipe.JPG",
+        "DES":"A traditional Mashroom Biryani recipe is a slow cooked layered casserole of paneer cubes in a curd (yogurt) based gravy, fried onions and par-cooked rice flavored with spices, saffron or rose water. Any traditionally made biryani will have separate layers of the gravy and rice, utilizing the dum method of cooking.",
+        "TYPE":"BIRYANI",
+        "PRICE":390
+    }
+    
+]
